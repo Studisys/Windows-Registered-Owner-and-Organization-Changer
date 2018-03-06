@@ -93,8 +93,7 @@ I wanted to change the Owner and Org names. I had found the way to do it via com
 
  - Change the user and org names.
  
-<img src="https://img.shields.io/badge/Feat
-ures-Implemented but not completely working-yellow.svg">
+<img src="https://img.shields.io/badge/Features-Implemented but not completely working-yellow.svg">
 
  - Change the user and org names.
 
