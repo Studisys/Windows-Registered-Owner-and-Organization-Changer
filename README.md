@@ -74,7 +74,7 @@ Well, I believe this mode is quite useless because everything can be done via co
 **Example :** If you want `ThisIsMyFirstName` as Owner name, and `ThisIsMyCompanyName` as Org name, type : 
 
 ```
-windows_registered_owner_and_organization_changer.bat John Internet
+windows_registered_owner_and_organization_changer.bat ThisIsMyFirstName ThisIsMyCompanyName
 ```
 <p align="center">
   <img src="https://studisys.net/github/projects/Windows-Registered-Owner-and-Organization-Changer/unattended_double.gif"> 
